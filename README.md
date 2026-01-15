@@ -17,3 +17,11 @@ Reporting to senior leadership within Strategy and Operations, an in-depth analy
 - Pipeline Trends
 - Regional Results
 - Growth Trends
+
+</table>
+<h1 align="center">Executive Summary</h1>
+<table align="center">
+  <tr>
+    <td width="1440">
+      <h2 align="center">LEAD GENERATION ANALYSIS (2023 - 2026)</h2>
+      <body>
