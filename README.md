@@ -42,10 +42,10 @@ Reporting to senior leadership within Strategy and Operations, an in-depth analy
             </ul>
           </li>
           <li>
-            <strong>Declining Trend in 2022</strong>
+            <strong>Declining Trend in Cycle Ending 2026</strong>
             <ul>
-              <li>A sales anomaly and significant decline occurred in 2022, particularly in Q4, with October ($178K), November ($208K), and December ($262K) marking the lowest revenue months.</li>
-              <li>The Q3 and Q4 revenue decline suggests a major downturn, likely caused by external market conditions, reduced consumer demand, or internal operational shifts.</li>
+              <li>The cycle ending 2026 saw a declining trend in lead generation volume in months September, Novemeber and December.</li>
+              <li>November saw the largest cycle over cycle decline (1,339 leads generated ending 2025 vs. 745 leads generated ending 2026).</li>
             </ul>
           </li>
         </ol>
