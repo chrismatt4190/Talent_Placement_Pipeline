@@ -78,12 +78,11 @@ Reporting to senior leadership within Strategy and Operations, an in-depth analy
     <h1 align="center">Sales Trend</h1>
     <td width="1000">
       <img width="350" src="https://github.com/user-attachments/assets/2b431400-cd7d-45c9-a652-bdd08a2b1d06" />
-
-
     </td>
     <td width="1000">
-      <img width="300" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1739896683/AOV_Line_Graph_CamilingJS">
+      <img width="350"" scr="Screenshot 2026-01-16 at 4 46 48 PM" src="https://github.com/user-attachments/assets/9ff715c0-d062-4c14-b4ab-777a50960d64" />
     </td>
+    
     <td width="1000">
       <img width="300" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1739894907/Num_of_Orders_mfx5ap">
     </td>
