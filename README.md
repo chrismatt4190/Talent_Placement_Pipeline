@@ -35,11 +35,10 @@ Reporting to senior leadership within Strategy and Operations, an in-depth analy
   <td width="460" valign="top">
         <ol>
           <li>
-            <strong>Revenue Growth and Peak Performance:</strong>
+            <strong>Pipeline Growth and Peak Performance:</strong>
             <ul>
-              <li>2020 was the strongest year, with sales consistently growing each quarter as a result of the COVID-19 pandemic.</li>
-              <li>Q4 2020 saw the highest revenue ($1.25M in December 2020), making it the best-performing period.</li>
-              <li>January 2021 ($1.03M) also maintained strong sales, though a downward trend started afterward.</li>
+              <li>The Cycle ending 2025 was our strongest cycle with peak lead generation in months August, November and January.</li>
+              <li>August saw the highest volume with 1,895 new leads generated, making it the best-performing period.</li>
             </ul>
           </li>
           <li>
