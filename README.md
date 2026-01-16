@@ -23,5 +23,14 @@ Reporting to senior leadership within Strategy and Operations, an in-depth analy
 <table align="center">
   <tr>
     <td width="1440">
-      <h2 align="center">LEAD GENERATION ANALYSIS (2023 - 2026)</h2>
+      <h2 align="center">LEAD GENERATION ANALYSIS (January 2023 - January 2026)</h2>
+<div align="center">
+  <img
+    width="688"
+    height="339"
+    alt="Screenshot 2026-01-15 at 4 53 12 PM"
+    src="https://github.com/user-attachments/assets/48b4520a-42ad-40d3-8a3d-f807c0a87a60"
+  />
+</div>
+
       <body>
