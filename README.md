@@ -66,5 +66,27 @@ Reporting to senior leadership within Strategy and Operations, an in-depth analy
           </li>
         </ol>
       </td>
+      </table>
+<h2 align="center">Dataset Structure and ERD (Entity relationship diagram)</h2>
+<body>The database structure as seen below consists of four tables: orders, customers, geo_lookup, and order_status, with a total row count of 10,8127 records.</body>
+<div align="center">
+  <img width="680" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1739423466/TechSphere_ERD_CamilingJS">
+</div>
+<h1 align="center">Insights Deep-Dive</h1>
+<table align="center">
+  <tr>
+    <h1 align="center">Sales Trend</h1>
+    <td width="1000">
+      <img width="300" src="https://github.com/user-attachments/assets/eddc6ec5-6c49-4528-8011-70e210c28d71" />
+
+    </td>
+    <td width="1000">
+      <img width="300" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1739896683/AOV_Line_Graph_CamilingJS">
+    </td>
+    <td width="1000">
+      <img width="300" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1739894907/Num_of_Orders_mfx5ap">
+    </td>
+  </tr>
+</table>
     </div>
   </tr>
