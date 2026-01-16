@@ -77,7 +77,8 @@ Reporting to senior leadership within Strategy and Operations, an in-depth analy
   <tr>
     <h1 align="center">Sales Trend</h1>
     <td width="1000">
-      <img width="300" src="https://github.com/user-attachments/assets/eddc6ec5-6c49-4528-8011-70e210c28d71" />
+      <img width="350" src="https://github.com/user-attachments/assets/2b431400-cd7d-45c9-a652-bdd08a2b1d06" />
+
 
     </td>
     <td width="1000">
