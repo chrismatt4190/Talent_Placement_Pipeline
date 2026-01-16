@@ -55,16 +55,13 @@ Reporting to senior leadership within Strategy and Operations, an in-depth analy
           <li>
             <strong>Quarterly Insights & Seasonal Trends</strong>
             <ul>
-              <li>Q3 and Q4 of each year typically show strong performance, likely due to seasonal shopping trends and marketing efforts.</li>
-              <li>Q1 2022 started well ($704K in January), but revenue quickly dropped, signaling an overall weak performance compared to previous years.</li>
             </ul>
           </li>
           <li>
             <strong>Key Takeaways & Recommendations</strong>
             <ul>
-              <li>Investigate the causes of the 2022 decline (e.g., market changes, competition, internal factors).</li>
-              <li>Leverage high-performing periods (e.g., Q3 and Q4 of strong years) to refine marketing and sales strategies.</li>
-              <li>Reassess business strategy for 2023, focusing on pricing, promotions, and customer engagement to regain momentum.</li>
+              <li>Investigate the causes of the lead generation decline (e.g., market changes, competition, internal factors).</li>
+              <li>Leverage high-performing periods (e.g., cycle ending 2025) to refine marketing and sales strategies.</li>
             </ul>
           </li>
         </ol>
