@@ -22,7 +22,7 @@ Reporting to senior leadership within Strategy and Operations, an in-depth analy
 <h1 align="center">Executive Summary</h1>
 <table align="center">
   <tr>
-    <td width="1440">
+    <div width="1440">
       <h2 align="center">LEAD GENERATION ANALYSIS (January 2023 - January 2026)</h2>
 <div align="center">
   <img
@@ -32,5 +32,43 @@ Reporting to senior leadership within Strategy and Operations, an in-depth analy
     src="https://github.com/user-attachments/assets/48b4520a-42ad-40d3-8a3d-f807c0a87a60"
   />
 </div>
-
-      <body>
+  <td width="460" valign="top">
+        <ol>
+          <li>
+            <strong>Revenue Growth and Peak Performance:</strong>
+            <ul>
+              <li>2020 was the strongest year, with sales consistently growing each quarter as a result of the COVID-19 pandemic.</li>
+              <li>Q4 2020 saw the highest revenue ($1.25M in December 2020), making it the best-performing period.</li>
+              <li>January 2021 ($1.03M) also maintained strong sales, though a downward trend started afterward.</li>
+            </ul>
+          </li>
+          <li>
+            <strong>Declining Trend in 2022</strong>
+            <ul>
+              <li>A sales anomaly and significant decline occurred in 2022, particularly in Q4, with October ($178K), November ($208K), and December ($262K) marking the lowest revenue months.</li>
+              <li>The Q3 and Q4 revenue decline suggests a major downturn, likely caused by external market conditions, reduced consumer demand, or internal operational shifts.</li>
+            </ul>
+          </li>
+        </ol>
+      </td>
+      <td width="460" valign="top">
+        <ol start="3">
+          <li>
+            <strong>Quarterly Insights & Seasonal Trends</strong>
+            <ul>
+              <li>Q3 and Q4 of each year typically show strong performance, likely due to seasonal shopping trends and marketing efforts.</li>
+              <li>Q1 2022 started well ($704K in January), but revenue quickly dropped, signaling an overall weak performance compared to previous years.</li>
+            </ul>
+          </li>
+          <li>
+            <strong>Key Takeaways & Recommendations</strong>
+            <ul>
+              <li>Investigate the causes of the 2022 decline (e.g., market changes, competition, internal factors).</li>
+              <li>Leverage high-performing periods (e.g., Q3 and Q4 of strong years) to refine marketing and sales strategies.</li>
+              <li>Reassess business strategy for 2023, focusing on pricing, promotions, and customer engagement to regain momentum.</li>
+            </ul>
+          </li>
+        </ol>
+      </td>
+    </div>
+  </tr>
