@@ -97,11 +97,10 @@ Reporting to senior leadership within Strategy and Operations, an in-depth analy
  <tr>
     <h1 align="center">Qualifed Lead Conversion Analysis</h1>
     <td width="1000">
-      <img width="350" src="https://github.com/user-attachments/assets/2b431400-cd7d-45c9-a652-bdd08a2b1d06" />
+      <img width="500" src="https://github.com/user-attachments/assets/85e8df5f-2109-42d1-a036-a1e6af626826" />
     </td>
     <td width="1000">
-      <img width="350"" scr="Screenshot 2026-01-16 at 4 46 48 PM" src="https://github.com/user-attachments/assets/9ff715c0-d062-4c14-b4ab-777a50960d64" />
-    </td>
+      <img width="500" src="https://github.com/user-attachments/assets/5b36af1e-b085-42e3-9213-5958406e2b70" />
 </table>
 <table>
   <tr>
