@@ -82,10 +82,6 @@ Reporting to senior leadership within Strategy and Operations, an in-depth analy
     <td width="1000">
       <img width="350"" scr="Screenshot 2026-01-16 at 4 46 48 PM" src="https://github.com/user-attachments/assets/9ff715c0-d062-4c14-b4ab-777a50960d64" />
     </td>
-    
-    <td width="1000">
-      <img width="300" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1739894907/Num_of_Orders_mfx5ap">
-    </td>
   </tr>
 </table>
 <table>
@@ -96,4 +92,26 @@ Reporting to senior leadership within Strategy and Operations, an in-depth analy
         <li>Sharp Decline in Q4 2022 – A Major Sales Anomaly <ul>
             <li>Historically, Q4 (Oct-Dec) has been the strongest quarter due to holiday shopping (Black Friday, Cyber Monday, Christmas sales). However, in 2022, <strong>Q4 sales plummeted</strong>. </li>
             <li>December 2022 Sales Revenue was $262K (Previous years: $458K–$1.25M). This represents a <strong>~70-80% drop</strong> from Q4 2021 and an even sharper decline compared to Q4 2020. </li>
-          </ul>
+        </table>
+<table align="center">
+ <tr>
+    <h1 align="center">Qualifed Lead Conversion Analysis</h1>
+    <td width="1000">
+      <img width="350" src="https://github.com/user-attachments/assets/2b431400-cd7d-45c9-a652-bdd08a2b1d06" />
+    </td>
+    <td width="1000">
+      <img width="350"" scr="Screenshot 2026-01-16 at 4 46 48 PM" src="https://github.com/user-attachments/assets/9ff715c0-d062-4c14-b4ab-777a50960d64" />
+    </td>
+</table>
+<table>
+  <tr>
+    <td>
+      <strong>Sales Revenue</strong>
+      <ol>
+        <li>Sharp Decline in Q4 2022 – A Major Sales Anomaly <ul>
+            <li>Historically, Q4 (Oct-Dec) has been the strongest quarter due to holiday shopping (Black Friday, Cyber Monday, Christmas sales). However, in 2022, <strong>Q4 sales plummeted</strong>. </li>
+            <li>December 2022 Sales Revenue was $262K (Previous years: $458K–$1.25M). This represents a <strong>~70-80% drop</strong> from Q4 2021 and an even sharper decline compared to Q4 2020. </li>
+        </table>
+  
+
+    
