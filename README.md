@@ -32,40 +32,69 @@ Reporting to senior leadership within Strategy and Operations, an in-depth analy
     src="https://github.com/user-attachments/assets/48b4520a-42ad-40d3-8a3d-f807c0a87a60"
   />
 </div>
-  <td width="460" valign="top">
-        <ol>
-          <li>
-            <strong>Pipeline Growth and Peak Performance:</strong>
-            <ul>
-              <li>The Cycle ending 2025 was our strongest cycle with peak lead generation in months August, November and January.</li>
-              <li>August saw the highest volume with 1,895 new leads generated, making it the best-performing period.</li>
-            </ul>
-          </li>
-          <li>
-            <strong>Declining Trend in Cycle Ending 2026</strong>
-            <ul>
-              <li>The cycle ending 2026 saw a declining trend in lead generation volume in months September, Novemeber and December.</li>
-              <li>November saw the largest cycle over cycle decline (1,339 leads generated ending 2025 vs. 745 leads generated ending 2026).</li>
-            </ul>
-          </li>
-        </ol>
-      </td>
-      <td width="460" valign="top">
-        <ol start="3">
-          <li>
-            <strong>Quarterly Insights & Seasonal Trends</strong>
-            <ul>
-            </ul>
-          </li>
-          <li>
-            <strong>Key Takeaways & Recommendations</strong>
-            <ul>
-              <li>Investigate the causes of the lead generation decline (e.g., market changes, competition, internal factors).</li>
-              <li>Leverage high-performing periods (e.g., cycle ending 2025) to refine marketing and sales strategies.</li>
-            </ul>
-          </li>
-        </ol>
-      </td>
+     <!-- LEFT COLUMN -->
+    <td width="460" valign="top">
+      <ol>
+        <li>
+          <strong>Pipeline Growth and Peak Performance</strong>
+          <ul>
+            <li>
+              The cycle ending 2025 delivered the strongest overall performance, with peak
+              lead generation occurring in <strong>August, November, and January</strong>.
+            </li>
+            <li>
+              <strong>August</strong> was the highest-volume month, generating
+              <strong>1,895 new leads</strong>, making it the top-performing period.
+            </li>
+          </ul>
+        </li>
+      <li>
+          <strong>Emerging Decline in Cycle Ending 2026</strong>
+          <ul>
+            <li>
+              The cycle ending 2026 shows a sustained decline in lead generation,
+              particularly in <strong>September, November, and December</strong>.
+            </li>
+            <li>
+              <strong>November experienced the largest cycle-over-cycle drop</strong>,
+              with leads declining from <strong>1,339</strong> (cycle ending 2025)
+              to <strong>745</strong> (cycle ending 2026).
+            </li>
+          </ul>
+        </li>
+      </ol>
+    </td>
+     <!-- RIGHT COLUMN -->
+    <td width="460" valign="top">
+      <ol start="3">
+        <li>
+          <strong>Quarterly Insights & Seasonal Trends</strong>
+          <ul>
+            <li>
+              Lead generation exhibits clear seasonality, with late summer and early fall
+              consistently driving higher volume across cycles.
+            </li>
+            <li>
+              Performance variability suggests that timing and execution strategy materially
+              influence lead outcomes.
+            </li>
+          </ul>
+        </li>
+        <li>
+          <strong>Key Takeaways & Recommendations</strong>
+          <ul>
+            <li>
+              Investigate the drivers behind the 2026 decline, including potential market shifts,
+              increased competition, or internal process changes.
+            </li>
+            <li>
+              Replicate high-performing strategies from the cycle ending 2025 to stabilize and
+              grow future lead volume.
+            </li>
+          </ul>
+        </li>
+      </ol>
+    </td>
       </table>
 <h2 align="center">Dataset Structure and ERD (Entity relationship diagram)</h2>
 <body>The database structure as seen below consists of four tables: orders, customers, geo_lookup, and order_status, with a total row count of 10,8127 records.</body>
