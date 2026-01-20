@@ -134,7 +134,7 @@ Reporting to senior leadership within Strategy and Operations, an in-depth analy
     </td>
       </table>
 <h2 align="center">Dataset Structure and ERD (Entity relationship diagram)</h2>
-<body>The database structure as seen below consists of four tables: orders, customers, geo_lookup, and order_status, with a total row count of 10,8127 records.</body>
+<body>The database structure as seen below consists of four tables: Talent Upload History,Talent Details with a total row count of 228,572 records.</body>
 <div align="center">
   <img width="680" src="https://github.com/user-attachments/assets/e9f03b54-94e8-4bb7-be1f-0e4323f254a0" />
 </div>
