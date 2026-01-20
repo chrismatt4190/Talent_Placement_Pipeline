@@ -203,10 +203,40 @@ Reporting to senior leadership within Strategy and Operations, an in-depth analy
   <tr>
     <td>
       <ol>
-        <li>Sharp Decline Trend in Lead Conversion<ul>
-            <li>On average, 44% of leads that were generated in the 2025 - 2026 cycle in any given month across regions were converted into a deals - won.</li>
-            <li>There is a significant decline in lead conversion month-over-month from September 2025 through January 2026. From a peak of ~69% conversion rate in August 2025, lead conversion steadily dropped to ~21%.</li>
-        </table>
+        <li>
+          <strong>Sustained decline in qualified lead conversion</strong>
+          <ul>
+            <li>
+              Across the 2025–2026 cycle, an average of <strong>~44% of qualified leads</strong>
+              converted to Closed-Won in any given month across regions, indicating
+              moderate baseline conversion performance.
+            </li>
+          </ul>
+        </li>
+        <li>
+          <strong>Sharp month-over-month deterioration beginning in Fall 2025</strong>
+          <ul>
+            <li>
+              Conversion rates declined materially from <strong>September 2025 through January 2026</strong>.
+              After peaking at approximately <strong>69% in August 2025</strong>, qualified lead
+              conversion steadily fell to <strong>~21% by January 2026</strong>.
+            </li>
+          </ul>
+        </li>
+        <li>
+          <strong>Conversion performance is consistent across regions</strong>
+          <ul>
+            <li>
+              Regional conversion rates remain relatively stable—generally ranging between
+              <strong>~41% and ~47%</strong>—suggesting the decline is driven by
+              <strong>temporal or funnel-level dynamics</strong> rather than regional execution differences.
+            </li>
+          </ul>
+        </li>
+      </ol>
+    </td>
+  </tr>
+</table>
   
 
     
