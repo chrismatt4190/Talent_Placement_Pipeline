@@ -145,10 +145,51 @@ Reporting to senior leadership within Strategy and Operations, an in-depth analy
   <tr>
     <td>
       <ol>
-        <li>The majority of qualified leads are convereted within 10 days<ul>
-            <li>Through the 2025 - 2026 cycle, ~60% of leads were able to be converted into deals - won. However, it's more likely for a lead to be converted in more than 30 days otherwise.</li>
-            <li> Of the lead sourcing channels, MLT hosted events or events hosted by a community partnership have the highest conversion rate to deals - won  of ~66% within 10 days.</li>
-        </table>
+        <li>
+          <strong>Most qualified leads convert quickly</strong>
+          <ul>
+            <li>
+              Across the 2025–2026 cycle, approximately <strong>60% of qualified leads</strong>
+              converted to Closed-Won within <strong>10 days</strong>, indicating a strong
+              early-stage conversion window.
+            </li>
+          </ul>
+        </li>
+        <li>
+          <strong>Delayed conversions face diminishing likelihood</strong>
+          <ul>
+            <li>
+              Leads that do not convert within the first 10 days are significantly less
+              likely to close and are more likely to convert after <strong>30+ days</strong>,
+              reflecting extended decision cycles or lower initial intent.
+            </li>
+          </ul>
+        </li>
+        <li>
+          <strong>Events drive the fastest conversions by source</strong>
+          <ul>
+            <li>
+              Among lead sourcing channels, <strong>MLT-hosted events and community-partner
+              events</strong> demonstrate the highest conversion efficiency, with approximately
+              <strong>66% of leads converting to Closed-Won within 10 days</strong>.
+            </li>
+          </ul>
+        </li>
+        <li>
+          <strong>Regional conversion patterns are consistent</strong>
+          <ul>
+            <li>
+              Conversion timing is relatively consistent across regions, with all regions
+              showing a majority of Closed-Won deals occurring within the first 10 days.
+              This suggests conversion speed is driven more by <strong>lead quality and source</strong>
+              than by geography.
+            </li>
+          </ul>
+        </li>
+      </ol>
+    </td>
+  </tr>
+</table>
   <table align="center">
  <tr>
     <h1 align="center">Qualifed Lead Conversion Analysis</h1>
