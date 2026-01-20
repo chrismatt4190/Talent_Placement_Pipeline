@@ -104,7 +104,6 @@ Reporting to senior leadership within Strategy and Operations, an in-depth analy
 <table>
   <tr>
     <td>
-      <strong>Sales Revenue</strong>
       <ol>
         <li>The majority of qualified leads are convereted within 10 days<ul>
             <li>Through the 2025 - 2026 cycle, ~60% of leads were able to be converted into deals - won. However, it's more likely for a lead to be converted in more than 30 days otherwise.</li>
