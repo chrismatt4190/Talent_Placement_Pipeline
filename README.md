@@ -90,6 +90,8 @@ Reporting to senior leadership within Strategy and Operations, an in-depth analy
       <ol>
         <li>hold space<ul>
             <li>In November 2025, there was large spike in leads generated through our Social Media channel source year-over-year (+428 leads). This was primarly driven by existing users sharing and reposting on Tiktok which created leads outside of our audience. </li>
+          <li> From 2023 - 2026, the top three sources contributing to lead generation are 1 - Referrals contributing ~40%, 2 - Social Media contributing ~30% and 3 - Community Partnerships contributing ~14%. </li>
+          <li>In 2026, the Social Media channel contributed ~44% of the leads generated with an 11% increase year-over-year.</li>
             <li>November saw the largest cycle-over-cycle decline since 2025 which indicates a non-strategic change in Social Media strategy from a growth standpoint.  </li>
         </table>
 <table align="center">
