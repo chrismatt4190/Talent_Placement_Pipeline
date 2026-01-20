@@ -111,6 +111,24 @@ Reporting to senior leadership within Strategy and Operations, an in-depth analy
             <li>Historically, Q4 (Oct-Dec) has been the strongest quarter due to holiday shopping (Black Friday, Cyber Monday, Christmas sales). However, in 2022, <strong>Q4 sales plummeted</strong>. </li>
             <li>December 2022 Sales Revenue was $262K (Previous years: $458K–$1.25M). This represents a <strong>~70-80% drop</strong> from Q4 2021 and an even sharper decline compared to Q4 2020. </li>
         </table>
+  <table align="center">
+ <tr>
+    <h1 align="center">Qualifed Lead Conversion Analysis</h1>
+    <td width="1000">
+      <img width="500" src="https://github.com/user-attachments/assets/85e8df5f-2109-42d1-a036-a1e6af626826" />
+    </td>
+    <td width="1000">
+      <img width="500" src="https://github.com/user-attachments/assets/5b36af1e-b085-42e3-9213-5958406e2b70" />
+</table>
+<table>
+  <tr>
+    <td>
+      <strong>Sales Revenue</strong>
+      <ol>
+        <li>Sharp Decline in Q4 2022 – A Major Sales Anomaly <ul>
+            <li>Historically, Q4 (Oct-Dec) has been the strongest quarter due to holiday shopping (Black Friday, Cyber Monday, Christmas sales). However, in 2022, <strong>Q4 sales plummeted</strong>. </li>
+            <li>December 2022 Sales Revenue was $262K (Previous years: $458K–$1.25M). This represents a <strong>~70-80% drop</strong> from Q4 2021 and an even sharper decline compared to Q4 2020. </li>
+        </table>
   
 
     
