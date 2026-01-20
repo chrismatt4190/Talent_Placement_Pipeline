@@ -87,9 +87,8 @@ Reporting to senior leadership within Strategy and Operations, an in-depth analy
 <table>
   <tr>
     <td>
-      <strong>Sales Revenue</strong>
       <ol>
-        <li>Sharp Decline in Q4 2022 – A Major Sales Anomaly <ul>
+        <li>hold space<ul>
             <li>Historically, Q4 (Oct-Dec) has been the strongest quarter due to holiday shopping (Black Friday, Cyber Monday, Christmas sales). However, in 2022, <strong>Q4 sales plummeted</strong>. </li>
             <li>December 2022 Sales Revenue was $262K (Previous years: $458K–$1.25M). This represents a <strong>~70-80% drop</strong> from Q4 2021 and an even sharper decline compared to Q4 2020. </li>
         </table>
@@ -107,9 +106,9 @@ Reporting to senior leadership within Strategy and Operations, an in-depth analy
     <td>
       <strong>Sales Revenue</strong>
       <ol>
-        <li>Sharp Decline in Q4 2022 – A Major Sales Anomaly <ul>
-            <li>Historically, Q4 (Oct-Dec) has been the strongest quarter due to holiday shopping (Black Friday, Cyber Monday, Christmas sales). However, in 2022, <strong>Q4 sales plummeted</strong>. </li>
-            <li>December 2022 Sales Revenue was $262K (Previous years: $458K–$1.25M). This represents a <strong>~70-80% drop</strong> from Q4 2021 and an even sharper decline compared to Q4 2020. </li>
+        <li>The majority of qualified leads are convereted within 10 days<ul>
+            <li>Through the 2025 - 2026 cycle, ~60% of leads were able to be converted into deals - won. However, it's more likely for a lead to be converted in more than 30 days otherwise.</li>
+            <li> Of the lead sourcing channels, MLT hosted events or events hosted by a community partnership have the highest conversion rate to deals - won  of ~66% within 10 days.</li>
         </table>
   <table align="center">
  <tr>
