@@ -303,6 +303,81 @@ Reporting to senior leadership within Strategy and Operations, an in-depth analy
     </td>
   </tr>
 </table>
-  
+<h2 align="center">Recommendations</h2>
 
+<table align="center" width="100%">
+  <tr>
+    <td valign="top">
+      <ol>
+        <li>
+          <strong>Double Down on High-Intent Acquisition Channels</strong>
+          <ul>
+            <li>
+              Prioritize MLT-hosted and community-partner events, which consistently
+              generate the fastest and highest-converting leads.
+            </li>
+            <li>
+              Increase event cadence during historically high-performing periods,
+              particularly late summer and early fall.
+            </li>
+          </ul>
+        </li>
+        <li>
+          <strong>Optimize for Speed-to-Conversion</strong>
+          <ul>
+            <li>
+              Implement a 10-day follow-up SLA for all qualified leads, with priority
+              routing for event- and referral-sourced leads.
+            </li>
+            <li>
+              Use automated alerts to flag leads approaching the 10-day conversion window.
+            </li>
+          </ul>
+        </li>
+        <li>
+          <strong>Diagnose and Address the 2026 Decline</strong>
+          <ul>
+            <li>
+              Review acquisition and follow-up changes from September through January
+              to identify drivers of the cycle-over-cycle decline.
+            </li>
+            <li>
+              Compare execution strategies from the high-performing 2025 cycle to
+              isolate what changed.
+            </li>
+          </ul>
+        </li>
+        <li>
+          <strong>Implement a Fall–Winter Conversion Acceleration Plan</strong>
+          <ul>
+            <li>
+              Deploy a targeted conversion playbook from September through January,
+              when qualified lead conversion historically declines.
+            </li>
+            <li>
+              Increase early-stage outreach intensity and refresh messaging to reflect
+              end-of-year urgency and value clarity.
+            </li>
+            <li>
+              Monitor conversion performance weekly during this period to enable
+              rapid intervention.
+            </li>
+          </ul>
+        </li>
+        <li>
+          <strong>Align Planning to Seasonal Performance</strong>
+          <ul>
+            <li>
+              Use historical seasonality to guide marketing spend, event scheduling,
+              and staffing capacity.
+            </li>
+            <li>
+              Treat peak months as intentional growth windows rather than reactive surges.
+            </li>
+          </ul>
+        </li>
+      </ol>
+    </td>
+  </tr>
+</table>
     
