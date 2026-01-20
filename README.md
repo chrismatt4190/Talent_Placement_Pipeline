@@ -121,11 +121,10 @@ Reporting to senior leadership within Strategy and Operations, an in-depth analy
 <table>
   <tr>
     <td>
-      <strong>Sales Revenue</strong>
       <ol>
-        <li>Sharp Decline in Q4 2022 – A Major Sales Anomaly <ul>
-            <li>Historically, Q4 (Oct-Dec) has been the strongest quarter due to holiday shopping (Black Friday, Cyber Monday, Christmas sales). However, in 2022, <strong>Q4 sales plummeted</strong>. </li>
-            <li>December 2022 Sales Revenue was $262K (Previous years: $458K–$1.25M). This represents a <strong>~70-80% drop</strong> from Q4 2021 and an even sharper decline compared to Q4 2020. </li>
+        <li>Sharp Decline Trend in Lead Conversion<ul>
+            <li>On average, 44% of leads that were generated in the 2025 - 2026 cycle in any given month across regions were converted into a deals - won.</li>
+            <li>There is a significant decline in lead conversion month-over-month from September 2025 through January 2026. From a peak of ~69% conversion rate in August 2025, lead conversion steadily dropped to ~21%.</li>
         </table>
   
 
