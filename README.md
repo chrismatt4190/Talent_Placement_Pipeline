@@ -14,9 +14,46 @@ Reporting to senior leadership within Strategy and Operations, an in-depth analy
 
 ## Northstar Metrics
 
-- Pipeline Trends
-- Regional Results
-- Growth Trends
+<table align="center" width="100%">
+  <tr>
+    <td width="460" valign="top">
+      <ol>
+        <li>
+          <strong>Qualified Leads Generated (QLG)</strong>
+          <ul>
+            <li>Total qualified leads generated per month and cycle.</li>
+            <li>Primary indicator of pipeline health and acquisition scale.</li>
+          </ul>
+        </li>
+        <li>
+          <strong>10-Day Lead-to-Win Conversion Rate</strong>
+          <ul>
+            <li>Percentage of qualified leads converting to Closed-Won within 10 days.</li>
+            <li>Core predictor of overall funnel success and lead quality.</li>
+          </ul>
+        </li>
+        <li>
+          <strong>Channel Source Conversion Rate</strong>
+          <ul>
+            <li>Conversion rate of leads generated through MLT priority channels.</li>
+            <li>Highest-performing channel by speed and efficiency.</li>
+          </ul>
+        </li>
+      </ol>
+    </td>
+    <td width="460" valign="top">
+      <ol start="4">
+        <li>
+          <strong>Monthly Qualified Lead Conversion Rate</strong>
+          <ul>
+            <li>Percentage of qualified leads converting to Closed-Won in a given month.</li>
+            <li>Early warning indicator of funnel friction or quality decline.</li>
+          </ul>
+        </li>
+      </ol>
+    </td>
+  </tr>
+</table>
 
 </table>
 <h1 align="center">Executive Summary</h1>
