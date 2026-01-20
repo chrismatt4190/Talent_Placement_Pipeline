@@ -90,7 +90,7 @@ Reporting to senior leadership within Strategy and Operations, an in-depth analy
       <ol>
         <li>hold space<ul>
             <li>In November 2025, there was large spike in leads generated through our Social Media channel source year-over-year (+428 leads). This was primarly driven by existing users sharing and reposting on Tiktok which created leads outside of our audience. </li>
-            <li>November saw the largest cycle-over-cycle decline since 2025 which indicates a non-favorable change in Social Media strategy for growth.  </li>
+            <li>November saw the largest cycle-over-cycle decline since 2025 which indicates a non-strategic change in Social Media strategy from a growth standpoint.  </li>
         </table>
 <table align="center">
  <tr>
