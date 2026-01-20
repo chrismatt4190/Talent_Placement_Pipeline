@@ -75,7 +75,7 @@ Reporting to senior leadership within Strategy and Operations, an in-depth analy
 <h1 align="center">Insights Deep-Dive</h1>
 <table align="center">
   <tr>
-    <h1 align="center">Lead Generation Analysis</h1>
+    <h1 align="center">Channel Source Attribution Analysis</h1>
     <td width="1000">
       <img width="350" src="https://github.com/user-attachments/assets/2b431400-cd7d-45c9-a652-bdd08a2b1d06" />
     </td>
@@ -95,7 +95,7 @@ Reporting to senior leadership within Strategy and Operations, an in-depth analy
         </table>
 <table align="center">
  <tr>
-    <h1 align="center">Qualifed Lead Conversion Analysis</h1>
+    <h1 align="center">Deal Stage Conversion Analysis</h1>
     <td width="1000">
       <img width="500" src="https://github.com/user-attachments/assets/85e8df5f-2109-42d1-a036-a1e6af626826" />
     </td>
