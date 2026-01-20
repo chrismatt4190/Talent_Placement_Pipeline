@@ -80,7 +80,7 @@ Reporting to senior leadership within Strategy and Operations, an in-depth analy
       <img width="500" src="https://github.com/user-attachments/assets/af8d005d-7632-4d66-8d33-4537df343309" />
     </td>
     <td width="1000">
-      <img width="500" src="https://github.com/user-attachments/assets/9d15c99a-fae4-4908-b5be-0c623fc289f7" />
+      <img width="500" src="https://github.com/user-attachments/assets/28130659-f7aa-4265-8604-ce03e022c056" />
     </td>
   </tr>
 </table>
