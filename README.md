@@ -88,18 +88,50 @@ Reporting to senior leadership within Strategy and Operations, an in-depth analy
   <tr>
     <td>
       <ol>
-        <li>Social Media spike in Nov 2025<ul>
-          <liv>In November 2025, Social Media experienced a significant year-over-year increase in leads (+428). This spike was primarily driven by organic amplification from existing users—particularly reposting and sharing on TikTok—which expanded reach beyond our core audience.</li>
-        <li>Primary lead drivers (2023–2026)<ul>
-          <liv>From 2023 to 2026, lead generation has been consistently concentrated across three channels:</li>
-          <liv><strong>Referrals</strong> (~40% of total leads)</li>
-          <liv><strong>	Social Media</strong> (~30%)</li>
-          <liv><strong>	Community Partnerships </strong> (~14%)</li>
-            <li>In November 2025, there was large spike in leads generated through our Social Media channel source year-over-year (+428 leads). This was primarly driven by existing users sharing and reposting on Tiktok which created leads outside of our audience. </li>
-          <li> From 2023 - 2026, the top three sources contributing to lead generation are 1 - Referrals contributing ~40%, 2 - Social Media contributing ~30% and 3 - Community Partnerships contributing ~14%. </li>
-          <li>In 2026, the Social Media channel contributed ~44% of the leads generated with an 11% increase year-over-year.</li>
-            <li>November saw the largest cycle-over-cycle decline since 2025 which indicates a non-strategic change in Social Media strategy from a growth standpoint.  </li>
-        </table>
+        <li>
+          <strong>Social Media spike in Nov 2025</strong>
+          <ul>
+            <li>
+              In November 2025, Social Media experienced a significant year-over-year increase in leads (+428).
+              This spike was primarily driven by organic amplification from existing users—particularly reposting
+              and sharing on TikTok—which expanded reach beyond our core audience.
+            </li>
+          </ul>
+        </li>
+        <li>
+          <strong>Primary lead drivers (2023–2026)</strong>
+          <ul>
+            <li>
+              From 2023 to 2026, lead generation has been consistently concentrated across three channels:
+            </li>
+            <li><strong>Referrals</strong> (~40% of total leads)</li>
+            <li><strong>Social Media</strong> (~30% of total leads)</li>
+            <li><strong>Community Partnerships</strong> (~14% of total leads)</li>
+          </ul>
+        </li>
+        <li>
+          <strong>Shift in channel mix in 2026</strong>
+          <ul>
+            <li>
+              In 2026, Social Media accounted for approximately 44% of total leads,
+              representing an 11% year-over-year increase.
+            </li>
+          </ul>
+        </li>
+        <li>
+          <strong>Recent performance decline signals strategy risk</strong>
+          <ul>
+            <li>
+              November marked the largest cycle-over-cycle decline observed since 2025,
+              suggesting recent changes to the Social Media strategy may not be growth-oriented
+              and warrant reevaluation.
+            </li>
+          </ul>
+        </li>
+      </ol>
+    </td>
+  </tr>
+</table>
 <table align="center">
  <tr>
     <h1 align="center">Deal Stage Conversion Analysis</h1>
