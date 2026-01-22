@@ -148,7 +148,7 @@ Reporting to senior leadership within Strategy and Operations, an in-depth analy
   <tr>
     <h1 align="center">Channel Source Attribution Analysis</h1>
     <td width="1000">
-      <img width="500" src="https://github.com/user-attachments/assets/af8d005d-7632-4d66-8d33-4537df343309" />
+      <img width="500" src="https://github.com/user-attachments/assets/d8e585d0-44f6-4aa7-a38e-bfc4319617a9" />
     </td>
     <td width="1000">
       <img width="500" src="https://github.com/user-attachments/assets/28130659-f7aa-4265-8604-ce03e022c056" />
