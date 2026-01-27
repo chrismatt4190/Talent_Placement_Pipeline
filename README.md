@@ -11,7 +11,7 @@
         </p>
 <br>
          <p>
-MLT’s Talent Pipeline supports thousands of candidates annually across multiple programs, managing a large and growing ecosystem of applicants, fellows, institutional partners, and hiring organizations. The underlying data spans the full talent lifecycle, including candidate demographics, academic background, application and admissions funnel stages, program engagement, skill development milestones, employer matching, and placement outcomes. This data enables MLT to operate as a two-sided marketplace—balancing candidate readiness with employer demand—while continuously optimizing recruitment, selection, and placement strategies.<br>
+MLT’s Talent Pipeline supports thousands of candidates annually across multiple programs, managing a large and growing ecosystem of applicants, fellows, institutional partners, and hiring organizations. The underlying data spans the full talent lifecycle, including candidate demographics, academic background, application and admissions funnel stages, program engagement. This data enables MLT to operate as a two-sided marketplace—balancing candidate readiness with employer demand—while continuously optimizing recruitment, selection, and placement strategies.<br>
             </p>
 <br>
          </p>
