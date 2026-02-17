@@ -3,7 +3,7 @@
 <h1 align="center">Talent Side Lead Generation Performance Report</h1>
 <table align="center">
   <tr>
-    <td width="1440">
+    <td>
       <h2 align="center">Client Background</h2>
       <body>
       <p>
@@ -17,11 +17,11 @@ MLT’s Talent Pipeline supports thousands of candidates annually across multipl
          </p>
 Reporting to senior leadership within Strategy and Operations, an in-depth analysis was conducted to evaluate the performance of the MLT Talent Pipeline over recent program cycles. This analysis is designed to surface actionable insights that cross-functional teams—including Recruitment & Admissions, Employer Partnerships, Program Delivery, and Data & Analytics—can leverage to improve pipeline efficiency, increase conversion and placement outcomes, and support sustainable, scalable growth. The key insights and recommendations focus on the following areas:
  </p>
-## Northstar Metrics
+Northstar Metrics
 
 <table align="center" width="100%">
   <tr>
-    <td width="460" valign="top">
+    <td valign="top">
       <ol>
         <li>
           <strong>Qualified Leads Generated (QLG)</strong>
@@ -46,7 +46,7 @@ Reporting to senior leadership within Strategy and Operations, an in-depth analy
         </li>
       </ol>
     </td>
-    <td width="460" valign="top">
+    <td valign="top">
       <ol start="4">
         <li>
           <strong>Monthly Qualified Lead Conversion Rate</strong>
