@@ -2,7 +2,7 @@
 <table align="center" width="100%">
   <tr>
     <td>
-      <h2 align="center">Client Background</h2>
+      <h2 align="center" width="100%">Client Background</h2>
       <body>
       <p>
         <strong>MLT</strong> is a U.S.-based talent development and placement platform that connects high-achieving, students and professionals with leading employers across industries including consulting, technology, finance, and engineering. MLT has scaled its programs nationally, partnering with hundreds of colleges and universities and a broad network of corporate employers to build a robust, diverse talent pipeline.<br>
