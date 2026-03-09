@@ -15,6 +15,7 @@ MLT’s Talent Pipeline supports thousands of candidates annually across multipl
          </p>
 Reporting to senior leadership within Strategy and Operations, an in-depth analysis was conducted to evaluate the performance of the MLT Talent Pipeline over recent program cycles. This analysis is designed to surface actionable insights that cross-functional teams—including Recruitment & Admissions, Employer Partnerships, Program Delivery, and Data & Analytics—can leverage to improve pipeline efficiency, increase conversion and placement outcomes, and support sustainable, scalable growth. The key insights and recommendations focus on the following areas:
  </p>
+</table>
 Northstar Metrics
 
 <table align="center" width="100%">
