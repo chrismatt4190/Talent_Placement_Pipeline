@@ -1,7 +1,7 @@
 <h1 align="center">Talent Side Lead Generation Performance Report</h1>
 <table align="center" width="100%">
   <tr>
-    <td>
+    <td width="100%>
       <h2 align="center" width="100%">Client Background</h2>
       <body>
       <p>
